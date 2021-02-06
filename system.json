@@ -32,6 +32,6 @@
   "primaryTokenAttribute": "resources.health",
   "secondaryTokenAttribute": "resources.power",
   "url": "https://github.com/JRahilly/Foundry_FOW",
-  "manifest": "https://githubusercontent.com/JRahilly/Foundry_FOW/main/system.json",
+  "manifest": "https://github.com/JRahilly/Foundry_FOW/main/system.json",
   "download": "https://github.com/JRahilly/Foundry_FOW/archive/main.zip"
 }
