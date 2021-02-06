@@ -1,0 +1,37 @@
+{
+  "name": "Foundry_FOW",
+  "title": "Flames of War - Foundry",
+  "description": "Flames of War for FoundryVTT",
+  "version": "1.0.0",
+  "templateVersion": 2,
+  "author": "Jerimiah Rahilly",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "name": "units",
+      "label": "Units",
+      "system": "Foundry_FOW",
+      "module": "Foundry_FOW",
+      "path": "packs/units.db",
+      "entity": "Actor"
+    },
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": false,
+  "initiative": "1d6",
+  "gridDistance": 1,
+  "gridUnits": "in",
+  "primaryTokenAttribute": "resources.health",
+  "secondaryTokenAttribute": "resources.power",
+  "url": "https://github.com/JRahilly/Foundry_FOW",
+  "manifest": "https://github.com/JRahilly/Foundry_FOW/blob/main/system.json",
+  "download": "https://github.com/JRahilly/Foundry_FOW/archive/main.zip"
+}
